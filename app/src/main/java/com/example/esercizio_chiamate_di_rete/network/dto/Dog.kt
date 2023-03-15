@@ -1,4 +1,4 @@
-package com.example.esercizio_chiamate_di_rete.network
+package com.example.esercizio_chiamate_di_rete.network.dto
 import com.google.gson.annotations.SerializedName
 
 

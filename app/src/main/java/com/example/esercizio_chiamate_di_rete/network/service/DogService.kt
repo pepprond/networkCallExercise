@@ -1,5 +1,6 @@
-package com.example.esercizio_chiamate_di_rete.network
+package com.example.esercizio_chiamate_di_rete.network.service
 
+import com.example.esercizio_chiamate_di_rete.network.dto.Dog
 import retrofit2.http.GET
 
 interface DogService {
